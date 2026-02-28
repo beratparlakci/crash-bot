@@ -1,3 +1,9 @@
+### Note:
+The commit history has been cleaned and the project has been restarted as an "initial commit".
+This was done to make the project more readable and easier to understand.
+
+
+
 # Crash Bot
 
 Monitors Bybit spot prices and places buy/sell orders when the price moves a set percentage away from the recent candle average.
